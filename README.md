@@ -8,6 +8,6 @@
 
 
 ###### Me when coding
-<div style="border-radius: 15px;">
+<div style="border-radius: 15px;"></div>
 ![Thumbs Up](https://github.com/BenjaminKing1337/BenjaminKing1337/blob/main/thumbsup.gif)
-</div>
+
