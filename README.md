@@ -6,6 +6,6 @@
 
 ## /Ben ❤
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Thumbs Up](https://github.com/BenjaminKing1337/BenjaminKing1337/blob/main/thumbsup.gif)
 
-![Alt Text](https://giphy.com/embed/XreQmk7ETCak0)
+
