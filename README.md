@@ -19,7 +19,7 @@
  <div id="aboutme">
    </div>
 </div>
-  ---
+---
   
   ### 👨‍💻: About Me :
  #### My name is Benjamin and I'm a multimediadesigner graduate currently studying a webdevelopment bachelor. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
