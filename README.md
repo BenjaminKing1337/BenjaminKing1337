@@ -17,17 +17,18 @@
 </div>
 
  <div id="aboutme">
+   </div>
+</div>
   ---
   
   ### 👨‍💻: About Me :
  #### My name is Benjamin and I'm a multimediadesigner graduate currently studying a webdevelopment bachelor. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-#### Here I have several projects to display some of my different skills, from frontend to backend across several languages and frameworks.
-#### - :telescope: Feel free to look 👁 around my repositories or look for the link to the hosted sites in the readme files. 🤯
+ #### Here I have several projects to display some of my different skills, from frontend to backend across several languages and frameworks.
+ #### Feel free to look 👁 around my repositories or look for the link to the hosted sites in the readme files. 🤯
 
 ## /Ben ❤
 
-  </div>
-</div>
+ 
 
 <!-- 
 
