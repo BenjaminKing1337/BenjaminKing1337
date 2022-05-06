@@ -40,7 +40,8 @@
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BenjaminKing1337&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminKing1337&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
- <div id="header" align="center">
+ ***
+  <div align="center">
  <img src="https://github.com/BenjaminKing1337/BenjaminKing1337/blob/main/thumbsup.gif" width="100"/>
  <br/>
  <a href="https://www.linkedin.com/in/benking1337/">
