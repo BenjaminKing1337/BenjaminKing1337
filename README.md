@@ -13,17 +13,21 @@
  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100"/>
  </a>
  <br/>
- <img src="https://komarev.com/ghpvc/?username=BenjaminKing1337&style=flat-square&color=blue" alt=""/>
- 
- 
+ <img src="https://komarev.com/ghpvc/?username=BenjaminKing1337&style=flat-square&color=blue" alt=""/> 
+</div>
 
-</div>
-</div>
-#### My name is Benjamin and I'm a multimediadesigner graduate currently studying a webdevelopment bachelor. 👽
+ <div id="aboutme">
+  ---
+  
+  ### 👨‍💻: About Me :
+ #### My name is Benjamin and I'm a multimediadesigner graduate currently studying a webdevelopment bachelor. 👽
 #### Here I have several projects to display some of my different skills, from frontend to backend across several languages and frameworks.
 #### Feel free to look 👁 around my repositories or look for the link to the hosted sites in the readme files. 🤯
 
 ## /Ben ❤
+
+  </div>
+</div>
 
 <!-- 
 
