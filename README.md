@@ -47,8 +47,13 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp; 
 </div>
+
+***
+
+### :fire: My Stats :
   
- 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BenjaminKing1337&theme=dark&background=000000)](https://git.io/streak-stats)
+  
   </div>
 </div>
 <!-- 
