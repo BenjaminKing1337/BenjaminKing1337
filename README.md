@@ -6,6 +6,8 @@
 </h1>
  <div id="aboutme">  
  <hr>
+  <div>
+  <div align="start">
   
   ### 👨‍💻: About Me :
  #### My name is Benjamin and I'm a multimediadesigner graduate currently studying a webdevelopment bachelor. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
@@ -13,7 +15,18 @@
  #### Feel free to look 👁 around my repositories or look for the link to the hosted sites in the readme files. 🤯
 
 ## /Ben ❤
-<hr>
+  </div>
+  <div align="end">
+ <img src="https://github.com/BenjaminKing1337/BenjaminKing1337/blob/main/thumbsup.gif" width="100"/>
+ <br/>
+ <a href="https://www.linkedin.com/in/benking1337/">
+ <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100"/>
+ </a>
+ <br/>
+ <img src="https://komarev.com/ghpvc/?username=BenjaminKing1337&style=flat-square&color=blue" alt=""/> 
+</div> 
+  </div>
+   <hr>
   
 ### 🛠️: Languages and Tools :
 <div align="center">
@@ -38,16 +51,7 @@
   ### :fire::  My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminKing1337&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BenjaminKing1337&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<hr>
-  <div align="end">
- <img src="https://github.com/BenjaminKing1337/BenjaminKing1337/blob/main/thumbsup.gif" width="100"/>
- <br/>
- <a href="https://www.linkedin.com/in/benking1337/">
- <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100"/>
- </a>
- <br/>
- <img src="https://komarev.com/ghpvc/?username=BenjaminKing1337&style=flat-square&color=blue" alt=""/> 
-</div> 
+  
  </div>
 </div>
 <!-- 
