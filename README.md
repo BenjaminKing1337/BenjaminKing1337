@@ -13,6 +13,8 @@
  <a href="https://www.linkedin.com/in/benking1337/">
  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100"/>
  </a>
+ <br/>
+ <img src="https://komarev.com/ghpvc/?username=BenjaminKing1337&style=flat-square&color=blue" alt=""/>
  
 </div>
 
