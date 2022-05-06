@@ -6,8 +6,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
  <div align="start">
- <img src="https://github.com/BenjaminKing1337/BenjaminKing1337/blob/main/thumbsup.gif" width="100"/>
- <br/>
  <a href="https://www.linkedin.com/in/benking1337/">
  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100"/>
  </a>
@@ -60,5 +58,8 @@
 [gif]: https://github.com/BenjaminKing1337/BenjaminKing1337/blob/main/thumbsup.gif
 
 ![][gif]
+
+ <img src="https://github.com/BenjaminKing1337/BenjaminKing1337/blob/main/thumbsup.gif" width="100"/>
+
 
 -->
