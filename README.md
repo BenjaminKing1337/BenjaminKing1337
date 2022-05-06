@@ -7,7 +7,7 @@
  <div id="aboutme">  
  <hr>
   <div>
-  <div align="start">
+  <div align="start" width="70%">
   
   ### 👨‍💻: About Me :
  #### My name is Benjamin and I'm a multimediadesigner graduate currently studying a webdevelopment bachelor. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
@@ -16,7 +16,7 @@
 
 ## /Ben ❤
   </div>
-  <div align="end">
+  <div align="end" width="30%">
  <img src="https://github.com/BenjaminKing1337/BenjaminKing1337/blob/main/thumbsup.gif" width="100"/>
  <br/>
  <a href="https://www.linkedin.com/in/benking1337/">
