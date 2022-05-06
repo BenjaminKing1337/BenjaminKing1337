@@ -9,12 +9,16 @@
 <div id="header" align="center">
 
  <img src="https://github.com/BenjaminKing1337/BenjaminKing1337/blob/main/thumbsup.gif" width="100"/>
+
  
+ https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
 </div>
 
 
+<!-- 
+
 ###### Me when coding
-<!-- ![Thumbs Up](https://github.com/BenjaminKing1337/BenjaminKing1337/blob/main/thumbsup.gif)
+![Thumbs Up](https://github.com/BenjaminKing1337/BenjaminKing1337/blob/main/thumbsup.gif)
  
 [gif]: https://github.com/BenjaminKing1337/BenjaminKing1337/blob/main/thumbsup.gif
 
