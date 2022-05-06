@@ -7,8 +7,7 @@
  <div id="aboutme">  
  <hr>
   <div>
-  <div align="start" width="70%">
-  
+  <div align="start" width="70%">  
   ### 👨‍💻: About Me :
  #### My name is Benjamin and I'm a multimediadesigner graduate currently studying a webdevelopment bachelor. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
  #### Here I have several projects to display some of my different skills, from frontend to backend across several languages and frameworks.
