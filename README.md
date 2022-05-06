@@ -10,7 +10,9 @@
 
  <img src="https://github.com/BenjaminKing1337/BenjaminKing1337/blob/main/thumbsup.gif" width="100"/>
 
+ <a href="https://www.linkedin.com/in/benking1337/">
  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100"/>
+ </a>
  
 </div>
 
