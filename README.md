@@ -10,8 +10,8 @@
 
  <img src="https://github.com/BenjaminKing1337/BenjaminKing1337/blob/main/thumbsup.gif" width="100"/>
 
+ <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100"/>
  
- https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
 </div>
 
 
