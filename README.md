@@ -5,6 +5,10 @@
 #### Feel free to look 👁 around my repositories or look for the link to the hosted sites in the readme files. 🤯
 
 ## /Ben ❤
+ <h1>
+  Welcome to my github 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <div id="header" align="center">
 
@@ -17,10 +21,7 @@
  <img src="https://komarev.com/ghpvc/?username=BenjaminKing1337&style=flat-square&color=blue" alt=""/>
  
  
- <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 </div>
 
 
