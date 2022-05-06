@@ -34,10 +34,11 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp; 
 </div>
 <hr>
-### :fire::  My Stats :
+
+  ### :fire::  My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminKing1337&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BenjaminKing1337&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
- ***
+<hr>
   <div align="end">
  <img src="https://github.com/BenjaminKing1337/BenjaminKing1337/blob/main/thumbsup.gif" width="100"/>
  <br/>
