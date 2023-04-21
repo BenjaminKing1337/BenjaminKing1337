@@ -1,5 +1,69 @@
+<head>
+ <style>
+ .cube {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  transform-style: preserve-3d;
+  animation: spin 3s linear infinite;
+}
+
+.cube div {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  
+}
+
+.cube .front {
+  transform: translateZ(50px);
+  background-color: red;
+}
+
+.cube .back {
+  transform: rotateY(180deg) translateZ(50px);
+  background-color: green;
+}
+
+.cube .right {
+  transform: rotateY(90deg) translateZ(50px);
+  background-color: blue;
+}
+
+.cube .left {
+  transform: rotateY(-90deg) translateZ(50px);
+  background-color: yellow;
+}
+
+.cube .top {
+  transform: rotateX(90deg) translateZ(50px);
+  background-color: pink;
+}
+
+.cube .bottom {
+  transform: rotateX(-90deg) translateZ(50px);
+  background-color: magenta;
+}
+
+@keyframes spin {
+  from {
+    transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+  }
+  to {
+    transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg);
+  }
+}
+ </style>
+</head>
 <div id="body">
- 
+ <div class="cube">
+  <div class="front"></div>
+  <div class="back"></div>
+  <div class="right"></div>
+  <div class="left"></div>
+  <div class="top"></div>
+  <div class="bottom"></div>
+</div>
  
 <h1>
   Welcome to my github 
